@@ -1,8 +1,3 @@
-# colorFlipper
-Sure! Here's a README file for your ColorFlipper project to add to a GitHub repository:
-
----
-
 # ColorFlipper
 
 ColorFlipper is a simple JavaScript project that changes the background color of a webpage to a random color or a predefined color from an array.
