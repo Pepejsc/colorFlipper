@@ -46,5 +46,3 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 ---
-
-Replace placeholders such as `yourusername`, `your email`, and the demo link with your actual details before adding the README file to your GitHub repository.
