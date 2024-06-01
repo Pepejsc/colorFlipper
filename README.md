@@ -4,7 +4,7 @@ ColorFlipper is a simple JavaScript project that changes the background color of
 
 ## Demo
 
-Check out the live demo of the ColorFlipper project [here](#).
+Check out the live demo of the ColorFlipper project [here](Project Link: https://pepejsc.github.io/colorFlipper/).
 
 ## Features
 
@@ -44,9 +44,6 @@ Don't forget to give the project a star! Thanks again!
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-
-Project Link: https://pepejsc.github.io/colorFlipper/
 
 ---
 
